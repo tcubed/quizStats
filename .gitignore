@@ -1,0 +1,9 @@
+# files to ignore
+*.pdf
+*.xlsx
+*.xlsm
+*.docx
+*.ods
+
+.ipynb_checkpoints/
+__pycache__/
